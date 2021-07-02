@@ -1,0 +1,8 @@
+{
+  "name": "mongoqueries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samuel-santos-batista/mongo-queries.git",
+  "author": "samuel <samuelsantxxi@gmail.com>",
+  "license": "MIT"
+}
